@@ -79,7 +79,18 @@ function diaEventoAhora () {
   });
    
    
-   
+  function exito(){
+    Swal.fire({
+        title: '<strong>VER LA UBICACION<u></u></strong>',
+        icon: 'success',
+        html:
+          'INGRESÁ' +
+          '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3562.4508610853877!2d-65.24242559999999!3d-26.7618946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x942267809bb74b5f%3A0xb1f8bf7cd522df58!2sKek%C3%A9%20-%20Sal%C3%B3n%20de%20Fiestas!5e0!3m2!1ses-419!2sar!4v1718229010764!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+          'Podes ampliar el mapa',
+          
+          
+      })
+}
    
    
    
