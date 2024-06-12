@@ -103,10 +103,11 @@
 
 .parrafo2{
   color: #404040;
-  font-family: "Rouge Script", cursive;
-  font-size: 28px;
+  font-family: "Bad Script", cursive;
+  font-size: 24px;
   text-align: center;
   font-weight: 600;
+  margin-top: 8%;
 }
 .copas{
   width: 13%;
@@ -122,10 +123,11 @@
 }
 .parrafo4{
   color: #404040;
-  font-family: "Rouge Script", cursive;
-  font-size: 28px;
+  font-family: "Bad Script", cursive;
+  font-size: 24px;
   text-align: center;
   font-weight: 600;
+  margin-top: 8%;
 }
 .parrafo5{
   color: #30669D;
@@ -136,10 +138,11 @@
 }
 .parrafo6{
   color: #404040;
-  font-family: "Rouge Script", cursive;
-  font-size: 28px;
+  font-family: "Bad Script", cursive;
+  font-size: 24px;
   text-align: center;
   font-weight: 600;
+  margin-top: 8%;
 }
 
 .clickuno {
